@@ -7,7 +7,7 @@ export const Header = () => {
   }
   return (
     <div>
-      <button className='abulfazal' onClick={delhi}>Home</button>
+      <button className='abulfazal' onClick={delhi}>Abadat</button>
     
     </div>
   )
